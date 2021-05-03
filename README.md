@@ -7,7 +7,7 @@
 
 
 
-#### I'm a full-stack developer passionate about learning new things through programming that help create solutions that add up to human development. :rocket:
+#### I'm a front-end developer passionate about learning new things through programming that help create solutions that add up to human development. :rocket:
  
 - 🎓 I’m currently studying Information Systems at [Federal University of Itajubá <img alt="Brazil Flag" title="Brazil" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](https://en.unifei.edu.br/) (UNIFEI)
 - 🌱 I’m learning and improving my skills in CSS, HTML and Javascript. 💻📱
