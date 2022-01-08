@@ -20,6 +20,8 @@
 </div>
   <br><a href="https://www.youtube.com/c/Manualdousu%C3%A1rioOficial" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/joaolucas2012/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:ribeirojoaolucas68@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/joaolucas.ribeiro.18/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
 </div>
   
 ## OH... THE SNAKE IS EATING MY CONTRIBUTION GRAPH!
@@ -68,5 +70,6 @@
 [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ribeirojoaolucas68@gmail.com)
 [![face](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/joaolucas.ribeiro.18/)
 [![insta](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaolucas2012/?hl=pt-br)
+[![youtube](https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/Manualdousu%C3%A1rioOficial)
 
 <hr>
