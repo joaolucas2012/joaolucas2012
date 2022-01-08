@@ -8,8 +8,6 @@
   <img align="center" width="220" height="116" src="https://c.tenor.com/XURX9sJ3wucAAAAM/shangchi-ten-rings.gif">
   <img align="center" width="300" height="116" src="https://i.pinimg.com/originals/b3/b4/5a/b3b45a7fd0b41aa05f6075c7dbefb3ee.gif">
   <img align="center" width="262" height="116" src="http://cinemacomrapadura.com.br/imagens/2018/04/20190421-vinga1.gif">
-
-  
 </div>
  <br>
 <div  align="center"> 
@@ -26,4 +24,49 @@
   
 ## OH... THE SNAKE IS EATING MY CONTRIBUTION GRAPH!
 ![snake gif](https://github.com/joaolucas2012/joaolucas2012/blob/output/github-contribution-grid-snake.gif)
- 
+  
+  
+#### "Don't let people make you give up what you most want in life. Believe. Fight. Conquer. And above all, be happy!"
+  
+ <h3>About Me 👨🏻💻  </h3>
+
+- 🤔 &nbsp; Exploring new technologies and learning developing software solutions and quick hacks.
+
+- 🎓 &nbsp; I’m currently studying Information Systems at Federal University of Itajubá (UNIFEI)
+
+- 🌱 &nbsp; I’m constantly learning and improving my skills in Javascript, Html, CSS and React. 👨‍💻
+
+- ✍️ &nbsp; In my free time I record and edit videos for Youtube and learn about digital marketing as a hobby.
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; Python | C 
+
+- 🌐 &nbsp; HTML | CSS | JavaScript 
+
+- 🛢 &nbsp; MySQL
+
+- 🔧 &nbsp; Git | Github
+
+
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; React | Node.js
+
+<hr>
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+[![gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ribeirojoaolucas68@gmail.com)
+[![face](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/joaolucas.ribeiro.18/)
+[![insta](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaolucas2012/?hl=pt-br)
+
+<hr>
