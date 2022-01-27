@@ -40,28 +40,21 @@
 
 - ✍️ &nbsp; In my free time I record and edit videos for Youtube and learn about digital marketing as a hobby.
 
-
-
 <h3>🛠 Tech Stack</h3>
 
+- 💻 &nbsp; Python | C
 
-
-- 💻 &nbsp; Python | C 
-
-- 🌐 &nbsp; HTML | CSS | JavaScript 
+- 🌐 &nbsp; HTML | CSS | JavaScript | React JS
 
 - 🛢 &nbsp; MySQL
 
 - 🔧 &nbsp; Git | Github
 
-
-
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; React | Node.js
+- 🔧 &nbsp; Node.js | React Native
 
 <hr>
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
