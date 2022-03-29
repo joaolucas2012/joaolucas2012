@@ -36,7 +36,7 @@
 
 - 🎓 &nbsp; I’m currently studying Information Systems at Federal University of Itajubá (UNIFEI)
 
-- 🌱 &nbsp; I’m constantly learning and improving my skills in Javascript, Html, CSS and React. 👨‍💻
+- 🌱 &nbsp; I’m constantly learning and improving my skills in React JS and Typescript. 👨‍💻
 
 - ✍️ &nbsp; In my free time I record and edit videos for Youtube and learn about digital marketing as a hobby.
 
