@@ -36,7 +36,7 @@
 
 - 🎓 &nbsp; I’m currently studying Information Systems at Federal University of Itajubá (UNIFEI)
 
-- 🌱 &nbsp; I’m constantly learning and improving my skills in React JS, Next JS and Typescript. 👨‍💻
+- 🌱 &nbsp; I’m constantly learning and improving my skills in React JS, React Native, Next JS and Typescript. 👨‍💻
 
 - ✍️ &nbsp; In my free time I record and edit videos for Youtube and learn about digital marketing as a hobby.
 
@@ -44,7 +44,7 @@
 
 - 💻 &nbsp; Python | C
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | React JS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Typescript | React JS | React Native
 
 - 🛢 &nbsp; MySQL
 
@@ -52,7 +52,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Node.js | React Native | Clean Architecture
+- 🔧 &nbsp; Node.js | Clean Architecture
 
 <hr>
 
