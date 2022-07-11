@@ -42,17 +42,17 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C
+- 💻 &nbsp; Python | C | JavaScript | Typescript
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Typescript | React JS | React Native
+- 🌐 &nbsp; HTML | CSS | ReactJS | React Native
 
-- 🛢 &nbsp; MySQL
+- 🛢 &nbsp; MySQL | MongoDB | NodeJS
 
 - 🔧 &nbsp; Git | Github
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Node.js | Clean Architecture
+- 🔧 &nbsp; Clean Architecture
 
 <hr>
 
