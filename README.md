@@ -29,8 +29,31 @@
   
   
 #### "Don't let people make you give up what you most want in life. Believe. Fight. Conquer. And above all, be happy!"
-  
- <h3>About Me 👨🏻💻  </h3>
+
+I am a lover of technology, design and digital marketing with a positive mindset and a burning desire to learn new things every day. Since I started my journey as a Front-End Developer, I have been working continuously to improve my skills and increasingly optimize my projects.
+
+Web development and design has never been "just another goal" for me. They challenged me to continually learn and improve my skills in creating more optimized websites, mobile apps and designs. What started out as just a curiosity to build something has become a passion that only gets me more excited and interested as time goes on. 🏆
+
+I've been working with front-end development since 2019, my main technology is ReactJS.
+
+Technical Skills:
+
+Front-end:
+* ReactJS (Context API, Redux, Styled Component, Storybook, Framer Motion, Stripe, Joi validations, Axios, Formik, Yup validations, Material UI, Moment, Recharts, Ant Design, etc)
+* React Native.
+* Accessibility and Internalization.
+* ESlint, Prettier, Husky, etc
+* Full responsive designs for mobile, tablet, and desktop. 
+* Designs with Figma.
+
+Services, Process, and SoftSkills:
+* English
+* Git, Gitflow, Conventional Commits, etc
+* Agile development (Scrum and Kanban methodology)
+* TDD (Test-driven development)
+* Leadership.
+
+<h3>About Me 👨🏻💻  </h3>
 
 - 🤔 &nbsp; Exploring new technologies and learning developing software solutions and quick hacks.
 
@@ -39,6 +62,7 @@
 - 🌱 &nbsp; I’m constantly learning and improving my skills in React JS, React Native, Next JS and Typescript. 👨‍💻
 
 - ✍️ &nbsp; In my free time I record and edit videos for Youtube and learn about digital marketing as a hobby.
+
 
 <h3>🛠 Tech Stack</h3>
 
