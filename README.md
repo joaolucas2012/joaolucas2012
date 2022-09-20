@@ -38,10 +38,8 @@ I've been working with front-end development since 2019, my main technology is R
 Technical Skills:
 
 Front-end:
-* ReactJS (Context API, Redux, Styled Component, Storybook, Framer Motion, Stripe, Joi validations, Axios, Formik, Yup validations, Material UI, Moment, Recharts, Ant Design, etc)
+* ReactJS (Context API, Redux, Styled Components, Axios, Formik, Yup validations)
 * React Native.
-* Accessibility and Internalization.
-* ESlint, Prettier, Husky, etc
 * Full responsive designs for mobile, tablet, and desktop. 
 * Designs with Figma.
 
@@ -49,7 +47,6 @@ Services, Process, and SoftSkills:
 * English
 * Git, Gitflow, Conventional Commits, etc
 * Agile development (Scrum and Kanban methodology)
-* TDD (Test-driven development)
 * Leadership.
 
 <h3>About Me 👨🏻💻  </h3>
@@ -65,7 +62,7 @@ Services, Process, and SoftSkills:
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C | JavaScript | Typescript
+- 💻 &nbsp; Python | C | JavaScript | PHP7
 
 - 🌐 &nbsp; HTML | CSS | ReactJS | React Native
 
@@ -75,7 +72,7 @@ Services, Process, and SoftSkills:
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Clean Architecture
+- 🔧 &nbsp; Clean Architecture, Dart, Flutter
 
 <hr>
 
