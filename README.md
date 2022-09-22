@@ -62,7 +62,7 @@ Services, Process, and SoftSkills:
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C | JavaScript | PHP7
+- 💻 &nbsp; Python | C | JavaScript | PHP7 | Dart
 
 - 🌐 &nbsp; HTML | CSS | ReactJS | React Native
 
