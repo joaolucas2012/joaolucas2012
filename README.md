@@ -45,7 +45,7 @@ Front-end:
 
 Services, Process, and SoftSkills:
 * English
-* Git, Gitflow, Conventional Commits, etc
+* Git, Conventional Commits
 * Agile development (Scrum and Kanban methodology)
 * Leadership.
 
@@ -55,7 +55,7 @@ Services, Process, and SoftSkills:
 
 - 🎓 &nbsp; I’m currently studying Information Systems at Federal University of Itajubá (UNIFEI)
 
-- 🌱 &nbsp; I’m constantly learning and improving my skills in React JS, React Native, Next JS and Typescript. 👨‍💻
+- 🌱 &nbsp; I’m constantly learning and improving my skills in programming with a desire to be a full stack developer. 👨‍💻
 
 - ✍️ &nbsp; In my free time I record and edit videos for Youtube and learn about digital marketing as a hobby.
 
@@ -66,13 +66,13 @@ Services, Process, and SoftSkills:
 
 - 🌐 &nbsp; HTML | CSS | ReactJS | React Native
 
-- 🛢 &nbsp; MySQL | MongoDB | NodeJS
+- 🛢 &nbsp; MySQL | Sql Server | MongoDB | NodeJS
 
 - 🔧 &nbsp; Git | Github
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Clean Architecture, Dart, Flutter
+- 🔧 &nbsp; Clean Architecture, Flutter
 
 <hr>
 
