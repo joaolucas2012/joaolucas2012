@@ -23,10 +23,6 @@
   <a href="https://www.facebook.com/joaolucas.ribeiro.18/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
 </div>
   
-## OH... THE SNAKE IS EATING MY CONTRIBUTION GRAPH!
-![snake gif](https://github.com/joaolucas2012/joaolucas2012/blob/output/github-contribution-grid-snake.gif)
-  
-  
 #### "Don't let people make you give up what you most want in life. Believe. Fight. Conquer. And above all, be happy!"
 
 I am a lover of technology, design and digital marketing with a positive mindset and a burning desire to learn new things every day. Since I started my journey as a Front-End Developer, I have been working continuously to improve my skills and increasingly optimize my projects.
@@ -64,7 +60,7 @@ Services, Process, and SoftSkills:
 
 - 💻 &nbsp; Python | C | JavaScript | PHP7 | Dart
 
-- 🌐 &nbsp; HTML | CSS | ReactJS | React Native
+- 🌐 &nbsp; HTML | CSS | ReactJS | React Native | Flutter
 
 - 🛢 &nbsp; MySQL | Sql Server | MongoDB | NodeJS
 
@@ -72,7 +68,7 @@ Services, Process, and SoftSkills:
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Clean Architecture, Flutter
+- 🔧 &nbsp; Clean Architecture
 
 <hr>
 
