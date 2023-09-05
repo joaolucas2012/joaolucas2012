@@ -29,7 +29,9 @@ I am a lover of technology, design and digital marketing with a positive mindset
 
 Web development and design has never been "just another goal" for me. They challenged me to continually learn and improve my skills in creating more optimized websites, mobile apps and designs. What started out as just a curiosity to build something has become a passion that only gets me more excited and interested as time goes on. 🏆
 
-I've been working with front-end development since 2019, my main technology is ReactJS.
+I've been working with front-end development from 2019 to 2022, when my main technology was ReactJS. 
+
+Today, I work with Robotic Process Automations (RPA), using the Dart language at the most part of the time and sometimes Javascript. The techniques I have learned working with that are [Web Scrapping](https://netrin.com.br/web-scraping-o-que-e-como-funciona/#:~:text=O%20Web%20scraping%2C%20ou%20%E2%80%9Craspagem,informa%C3%A7%C3%B5es%20p%C3%BAblicas%2C%20para%20diversos%20fins.), [Web Crawling](https://www.cloudflare.com/pt-br/learning/bots/what-is-a-web-crawler/#:~:text=Um%20web%20crawler%2C%20ou%20spider,resultados%20dos%20mecanismos%20de%20pesquisa.) and programming logic. I am also learning and working with [Flutter](https://docs.flutter.dev/), developping applications for desktop (Windows and Linux) and for Android.
 
 Technical Skills:
 
