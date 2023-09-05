@@ -36,13 +36,26 @@ Technical Skills:
 Front-end:
 * ReactJS (Context API, Redux, Styled Components, Axios, Formik, Yup validations)
 * React Native.
+* Flutter (Mobile and Desktop).
 * Full responsive designs for mobile, tablet, and desktop. 
 * Designs with Figma.
 
+Back-end:
+* Dart Language.
+* Javascript.
+* Robotic Process Automation (RPA).
+* Node.JS.
+
+Database:
+* MongoDB.
+* MySQL.
+* HanaDB.
+* SAP.
+
 Services, Process, and SoftSkills:
-* English
-* Git, Conventional Commits
-* Agile development (Scrum and Kanban methodology)
+* English.
+* Git, Conventional Commits.
+* Agile development (Scrum methodology).
 * Leadership.
 
 <h3>About Me 👨🏻💻  </h3>
@@ -62,9 +75,9 @@ Services, Process, and SoftSkills:
 
 - 🌐 &nbsp; HTML | CSS | ReactJS | React Native | Flutter
 
-- 🛢 &nbsp; MySQL | Sql Server | MongoDB | NodeJS
+- 🛢 &nbsp; MySQL | MongoDB | HanaDB | NodeJS
 
-- 🔧 &nbsp; Git | Github
+- 🔧 &nbsp; Git | Github | Gitlab
 
 <h3>🛠 To Learn</h3>
 
